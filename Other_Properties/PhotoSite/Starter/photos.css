@@ -1,0 +1,13 @@
+img{
+    width: 30%;
+    margin: calc(10%/6);
+}
+nav{
+    text-transform: uppercase; 
+    border-bottom: 2px solid grey;
+    margin-left: 30%;
+    margin: calc(10%/6);
+    background-color: yellow;
+    padding: 20px 0px;
+    font-weight: 500;
+}
